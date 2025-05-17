@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+langchain-google-genai
+pypdf2
+faiss-cpu
+huggingface_hub
+beautifulsoup4
+pypdf
